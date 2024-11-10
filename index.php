@@ -19,6 +19,9 @@
     <a href="15_tour_travel">15. Tour Travel Program</a><br>
     <a href="16_employee_form">16. Employee Form Program</a><br>
     <a href="17_employee_details">17. Employee Details Program</a><br>
+    <a href="18_cookies">18. Cookies Program</a><br>
+    <a href="19_session">19. Session Program</a><br>
+    <a href="20_file_handling">20. File Handling Program</a><br>
 </body>
 
 </html>

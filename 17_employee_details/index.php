@@ -26,15 +26,6 @@
             echo "</tr>";
         }
 
-
-        function deleteEmployee($id)
-        {
-            include("connectDb.php");
-            $query = "DELETE FROM `employees` WHERE `id` = $id";
-            mysqli_query($conn, $query);
-            echo "Employee Deleted Successfully";
-        }
-
         ?>
     </table>
 </body>
